@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saar</h1>
 <h3 align="center">Full-Stack Web Developer, passionate about solving challenges. Triathlete. 🏊🚴🏃‍♂️</h3>
 
-- 💬 My LinkedIn profile [https://www.linkedin.com/in/saar-fridman/](https://www.linkedin.com/in/saar-fridman/)
+<!-- - 💬 My LinkedIn profile [https://www.linkedin.com/in/saar-fridman/](https://www.linkedin.com/in/saar-fridman/) -->
 
 - 📫 How to reach me **saarf77@gmail.com**
 
